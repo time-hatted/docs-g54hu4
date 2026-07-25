@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-j2dgq1.preverx.com/sitemap.xml
